@@ -1,0 +1,2 @@
+first_pkg:second_pkg
+-DCATKIN_DEVEL_PREFIX=/home/arwa/wrkspace/devel -DCMAKE_INSTALL_PREFIX=/home/arwa/wrkspace/install -G Unix Makefiles

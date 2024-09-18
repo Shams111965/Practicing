@@ -1,0 +1,8 @@
+prefix=/home/arwa/wrkspace/install
+
+Name: second_pkg
+Description: Description of second_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
