@@ -1,0 +1,16 @@
+
+Name: Ahmed Nadi
+Address: Assiut Governorate, El-Quseya Center
+Email: nadiahmed812@gmail.com
+Phone Number: 01148576703
+
+
+
+About Me
+
+I am a student at the Faculty of Engineering in National University, majoring in Mechatronics.
+
+Skills
+
+I have basic knowledge of C++, Python, and Arduino.
+
